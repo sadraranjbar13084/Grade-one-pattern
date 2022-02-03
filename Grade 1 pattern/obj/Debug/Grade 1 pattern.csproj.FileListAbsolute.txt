@@ -1,0 +1,10 @@
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\bin\Debug\Grade 1 pattern.exe.config
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\bin\Debug\Grade 1 pattern.exe
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\bin\Debug\Grade 1 pattern.pdb
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade 1 pattern.csproj.AssemblyReference.cache
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade_1_pattern.Form1.resources
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade_1_pattern.Properties.Resources.resources
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade 1 pattern.csproj.GenerateResource.cache
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade 1 pattern.csproj.CoreCompileInputs.cache
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade 1 pattern.exe
+E:\sadra\developing\ویژوال استدیو\Grade 1 pattern\Grade 1 pattern\obj\Debug\Grade 1 pattern.pdb
